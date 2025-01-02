@@ -1,6 +1,6 @@
 export const Config = {
-	phone_number: "6289512149646", // Number BOT for pairing
-	owners: ["6281282405626"], // Number Owner for specific feature access
+	phone_number: "62xxxx", // Number BOT for pairing
+	owners: ["62xxxx"], // Number Owner for specific feature access
 
 	use_pairing_code: true,
 	pairing_wait: 1000 * 6,
