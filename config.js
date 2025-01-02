@@ -5,7 +5,7 @@ export const Config = {
 	use_pairing_code: true,
 	pairing_wait: 1000 * 6,
 
-	prefix: ["!", ".", "+"],
+	prefix: ["!", ".", "/"],
 
 	maelyn_apikey: process.env.MAELYN_APIKEY || "", // https://maelyn.tech
 	bing_cookie: process.env.BING_COOKIE || "", // _U
@@ -15,7 +15,7 @@ export const Config = {
 
 	profile: {
 		namebot: "Kurodate Haruna",
-		powered: "By Maelyn APIs",
+		powered: "Powered By Maelyn APIs",
 		web: "https://maelyn.tech",
 	},
 
