@@ -1,6 +1,6 @@
 export const Config = {
-	phone_number: "62xxxx", // Number BOT for pairing
-	owners: ["62xxxx"], // Number Owner for specific feature access
+	phone_number: "917086726371", // Number BOT for pairing
+	owners: ["917086726371"], // Number Owner for specific feature access
 
 	use_pairing_code: true,
 	pairing_wait: 1000 * 6,
@@ -15,8 +15,8 @@ export const Config = {
 
 	profile: {
 		namebot: "Kurodate Haruna",
-		powered: "Powered By Maelyn APIs",
-		web: "https://maelyn.tech",
+		powered: "Powered By TIKU✨🌷 APIs",
+		web: "https://chat.whatsapp.com/G3VOEg7WNYS1j9zrJcP49V",
 	},
 
 	images: {
@@ -26,7 +26,7 @@ export const Config = {
 
 	database: {
 		use_mongo: false,
-		mongo_url: "mongodb://localhost:27017/database",
+		mongo_url: "mongodb+srv://hey:TIKU12345@cluster0.5v1ps.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 
 		path: "./db/database.json",
 		save_interval: 10_000,
