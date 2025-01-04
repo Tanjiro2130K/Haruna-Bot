@@ -16,12 +16,12 @@ export const Config = {
 	profile: {
 		namebot: "Kurodate Haruna",
 		powered: "Powered By TIKU✨🌷 APIs",
-		web: "https://chat.whatsapp.com/G3VOEg7WNYS1j9zrJcP49V",
+		web: "",
 	},
 
 	images: {
-		menu: "https://telegra.ph/file/f40d32d686760637e49c4.jpg",
-		allmenu: "https://telegra.ph/file/460a444e140f5a5948532.jpg",
+		menu: "https://qu.ax/mdgMz.jpg",
+		allmenu: "https://qu.ax/axlPu.jpg",
 	},
 
 	database: {
